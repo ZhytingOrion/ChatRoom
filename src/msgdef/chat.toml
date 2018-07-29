@@ -1,0 +1,11 @@
+[ClientToServer]
+
+10001 = "proto.chat.ChatRequest"
+
+
+
+[ServerToClient]
+
+10002 = "proto.chat.ChatResponse"
+
+10003 = "proto.chat.ChatMessage"
